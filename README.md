@@ -1,2 +1,2 @@
 # Spark-ML-Hyperparameter-Tuning
-Creating machine learning pipeline with hyperparater tuning method in spark
+Creating machine learning pipeline with hyperparameter tuning method in spark
